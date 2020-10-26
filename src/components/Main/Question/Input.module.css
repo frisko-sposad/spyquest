@@ -1,0 +1,27 @@
+.question {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1rem 0 1rem 0;
+}
+
+.input_container {
+  display: flex;
+  justify-content: row;
+  justify-content: center;
+}
+
+.input {
+  width: 10rem;
+  margin-right: 1rem;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0 1rem 0;
+}
+
+.correct_ansver {
+  color: greenyellow;
+}
